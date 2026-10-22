@@ -1,0 +1,18 @@
+{
+  "top5_days": [
+    "2025-11-24",
+    "2025-11-17",
+    "2025-11-28",
+    "2025-11-13",
+    "2025-09-21"
+  ],
+  "unique_users": 2850,
+  "unique_author_sets": 299,
+  "top_authors": [
+    "Emil Rempel, Heriberto Kutch, Merle Rice"
+  ],
+  "best_buyer": [
+    53347,
+    54809
+  ]
+}

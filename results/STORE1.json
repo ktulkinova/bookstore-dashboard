@@ -1,0 +1,19 @@
+{
+  "top5_days": [
+    "2025-08-20",
+    "2025-09-22",
+    "2026-01-15",
+    "2025-09-03",
+    "2025-10-17"
+  ],
+  "unique_users": 3221,
+  "unique_author_sets": 324,
+  "top_authors": [
+    "Darron Ernser, Miss Lorina Kertzmann"
+  ],
+  "best_buyer": [
+    48403,
+    48904,
+    50056
+  ]
+}
